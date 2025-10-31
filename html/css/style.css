@@ -1,0 +1,59 @@
+body{
+    background-color: #0e130e;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+    background-color: #bcd3bb;
+}
+
+html {
+    font-family: "High Tower Text";
+}
+
+header {
+    display: flex;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+    background-color: #000000;
+}
+
+.company-logo {
+    width: 40%;
+}
+
+header a {
+    width: 20%;
+}
+
+nav {
+    width: 80%;
+}
+
+ul {
+    display: flex;
+    list-style-type: none;
+    justify-content: space-evenly;
+}
+
+li a {
+    display: block;
+    color: #d3cfaa;
+    text-align: center;
+    width: 10rem;
+    line-height: 3rem;
+}
+
+li:hover {
+    background-color: #2c3228;
+}
+
+footer {
+    text-align: center;
+    font-size: large;
+    color: #667e66;
+    padding: 1rem;
+    background-color: #000000;
+}
