@@ -5,7 +5,7 @@ body{
 .container {
     width: 80%;
     margin: auto;
-    background-color: #bcd3bb;
+    background-color: #abcca9;
 }
 
 html {
@@ -17,11 +17,12 @@ header {
     align-items: center;
     margin: 0;
     padding: 0;
-    background-color: #000000;
+    background-color: #1c2e16;
 }
 
 .company-logo {
-    width: 40%;
+    width: 30%;
+    padding: 1% 1%;
 }
 
 header a {
@@ -47,13 +48,19 @@ li a {
 }
 
 li:hover {
-    background-color: #2c3228;
+    background-color: #465940;
 }
+
+.home-main {
+    display: block;
+    width: 80%;
+}
+
 
 footer {
     text-align: center;
     font-size: large;
-    color: #667e66;
+    color: #465940;
     padding: 1rem;
-    background-color: #000000;
+    background-color: #1c2e16;
 }
