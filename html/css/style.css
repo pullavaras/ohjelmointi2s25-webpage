@@ -70,20 +70,22 @@ h2 {
     margin: 0 0 4rem 0;
 }
 
-.all_products{
-    text-align: center;
-    display: flex;
-    flex-wrap: wrap;
-    justify-items: center;
+.products_main p {
+    margin: 1rem 10rem 1rem 10rem;
 }
 
-.per_product {
+.all_products{
     display: flex;
-    width: calc(100% / 3);
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-bottom: 5rem;
 }
 
 figure {
+    flex: 1;
+    text-align: center;
     background-color: #aca161;
+    width: 100%;
 }
 
 .contact_main {
