@@ -6,10 +6,9 @@ body {
 .container {
     width: 80%;
     margin: auto;
-    background-color: #b6ae6e;
+    background-color: #b1a356;
 
 }
-
 
 html {
     font-family: SansSerif;
@@ -48,7 +47,7 @@ li a {
 }
 
 li:hover {
-    background-color: #23200a;
+    background-color: #1e1c11;
 }
 
 .home_main {
@@ -68,7 +67,7 @@ h2 {
 
 .products_main {
     text-align: center;
-    background-color: #aca161;
+    background-color: #9e984c;
     padding: 2rem;
     border-radius: 10px;
     margin: 2rem 2rem;
@@ -95,7 +94,7 @@ h2 {
 figure {
     flex: 1;
     text-align: center;
-    background-color: #aca161;
+    background-color: #9e984c;
     width: 100%;
     padding: 1rem;
     border-radius: 9px;
