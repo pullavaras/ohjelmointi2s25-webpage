@@ -6,7 +6,7 @@ body {
 .container {
     width: 80%;
     margin: auto;
-    background-color: #b1a356;
+    background-color: #cfc38e;
 
 }
 
@@ -47,7 +47,7 @@ li a {
 }
 
 li:hover {
-    background-color: #1e1c11;
+    background-color: #2c2815;
 }
 
 .home_main {
@@ -67,7 +67,7 @@ h2 {
 
 .products_main {
     text-align: center;
-    background-color: #9e984c;
+    background-color: #b6b47e;
     padding: 2rem;
     border-radius: 10px;
     margin: 2rem 2rem;
@@ -94,7 +94,7 @@ h2 {
 figure {
     flex: 1;
     text-align: center;
-    background-color: #9e984c;
+    background-color: #b6b47e;
     width: 100%;
     padding: 1rem;
     border-radius: 9px;
@@ -125,7 +125,7 @@ figure {
 footer {
     text-align: center;
     font-size: medium;
-    color: #465940;
+    color: #293722;
     padding: 1rem;
     background-color: #000000;
 }
