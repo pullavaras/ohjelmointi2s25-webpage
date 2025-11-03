@@ -1,6 +1,6 @@
 body {
     margin: 0;
-    background-color: #191e0f;
+    background-color: #13170f;
 }
 
 .container {
@@ -11,7 +11,7 @@ body {
 }
 
 html {
-    font-family: SansSerif;
+    font-family: sans-serif;
 }
 
 header {
